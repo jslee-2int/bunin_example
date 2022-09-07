@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="img">
+    <file>svg/folder.svg</file>
+    <file>svg/cancel.svg</file>
+    <file>svg/checkmark.svg</file>
+    <file>svg/ok.svg</file>
+    <file>svg/close_icon_2.svg</file>
+    <file>svg/maximize_icon.svg</file>
+    <file>svg/minimize_icon.svg</file>
+    <file>svg/bar_chart.svg</file>
+    <file>svg/heat_map.svg</file>
+    <file>svg/data_sheet.svg</file>
+    <file>svg/line_chart.svg</file>
+    <file>svg/combo_chart.svg</file>
+    <file>svg/template.svg</file>
+    <file>svg/next.svg</file>
+    <file>svg/home.svg</file>
+    <file>svg/settings.svg</file>
+  </qresource>
+</RCC>
